@@ -15,7 +15,7 @@ Creation de Saturne et de ses anneaux
 
 Année 2023/2024
 
-Jean Ernest Wambo
+Jean Ernest Wambo (univ lorraine, metz France)
 ==========================================================================*/
 
 const unsigned long MASQUE = 255;
