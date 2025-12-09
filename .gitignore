@@ -1,3 +1,5 @@
 CMakeLists.txt
 code.exe
 cmake-build-debug
+.idea
+25 - Sklearn Ensemble Learning.ipynb
